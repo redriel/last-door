@@ -1,4 +1,4 @@
-# Razze
+## Razze
 
 Il mondo di Edalon è abitato da molti popoli. Tutte le genti che abitano Edalon appartengono o discendono dalle Stirpi Antiche: draghi, giganti, elfi e gnomi.
 

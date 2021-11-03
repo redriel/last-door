@@ -1,20 +1,20 @@
 ## Il regno di Alfred Gramont
 
-Le terre di Astalia sono un ducato del regno dello Stallone Nero, Sacaan. Il duca Alfred Gramont ha due figli, Theovald e Ulrich. Il duca ha ottenuto grande fama dopo aver eretto il Forte Nero, un bastione posto al confine nord del ducato che ha respinto gli assalti dei *zachari*, popolo da sempre in guerra con i sacaaniti.
+Le terre di Astalia sono un ducato del regno dello Stallone Nero, Sakaar. Il duca Alfred Gramont ha due figli, Theovald e Ulrich. Il duca ha ottenuto grande fama dopo aver eretto il Forte Nero, un bastione posto al confine nord del ducato che ha respinto gli assalti dei *zachari*, popolo da sempre in guerra con i sakaariti.
 
-​	Il duca, laico e poco incline alle tradizioni, ha limitato l'influenza del clero nel suo dominio. Per la prima volta in secoli di storia di Astalia, ha deciso di non ottemperare l'accordo con l'Unico, tacciando la cerimonia del sacrificio del primogenito come barbarico strascico del passato.
+Il duca, laico e poco incline alle tradizioni, ha limitato l'influenza del clero nel suo dominio. Per la prima volta in secoli di storia di Astalia, ha deciso di non ottemperare l'accordo con l'Unico, tacciando la cerimonia del sacrificio del primogenito come barbarico strascico del passato.
 
-​	Questo semplice gesto ha avuto delle conseguenze cosmiche gravissime: allo scadere del centesimo anno la benedizione dell'Unico, spogliata del sacrificio del sangue ducale, si è indebolita. L'Unico, sopito nel suo sonno sepolcrale, è rimasto all'oscuro della situazione.
+Questo semplice gesto ha avuto delle conseguenze cosmiche gravissime: allo scadere del centesimo anno la benedizione dell'Unico, spogliata del sacrificio del sangue ducale, si è indebolita. L'Unico, sopito nel suo sonno sepolcrale, è rimasto all'oscuro della situazione.
 
 ## Le spie genomorfe
 
 La pazienza gei genomorfi è stata ricompensata. Alle prime avvisaglie di indebolimento della Benedizione, i genomorfi hanno inviato delle spie su Esalon. 
 
-​	La breccia è durata soltanto qualche giorno, prima che i meccanismi "di emergenza" dell'Unico entrassero in funzione. Tuttavia, questo breve lasso di tempo è stato sufficiente per permettere l'infiltrazione di alcuni genomorfi.
+La breccia è durata soltanto qualche giorno, prima che i meccanismi "di emergenza" dell'Unico entrassero in funzione. Tuttavia, questo breve lasso di tempo è stato sufficiente per permettere l'infiltrazione di alcuni genomorfi.
 
-​	Una volta giunti sulla superficie, i corpi degli invasori sono andati incontro ad un rapidissimo deterioramento, trasformandoli in masse fibrose ed informi.
+Una volta giunti sulla superficie, i corpi degli invasori sono andati incontro ad un rapidissimo deterioramento, trasformandoli in masse fibrose ed informi.
 
-​	I genomorfi tuttavia sono estremamente abili nel prendere possesso di altri organismi. Si sono impossessati di piante e animali, ma così facendo hanno perso le proprie facoltà intellettive. Soltanto un genomorfo, Z'nadur, è riuscito a prender possesso di una persona, il druido eremita del villaggio di Braddock.
+I genomorfi tuttavia sono estremamente abili nel prendere possesso di altri organismi. Si sono impossessati di piante e animali, ma così facendo hanno perso le proprie facoltà intellettive. Soltanto un genomorfo, Z'nadur, è riuscito a prender possesso di una persona, il druido eremita del villaggio di Braddock.
 
 ## L'invasione di Braddock
 
@@ -48,12 +48,12 @@ Rickert viene incarcerato e torturato, ma non confessa nè parla. Il principe Ul
 
 ## Giorni correnti
 
-Il Duca Gramont, privato di entrambi i suoi figli, diventa una figura tetra e derelitta. Affida il comando a Parda del Forte Nero e la difesa contro gli zachari a Parda, un incrollabile elfo e suo fedele servitore. Il clero e la nobiltà, fino a quel momento tenuti sotto controllo dal suo pugno di ferro, tornano alla ribalta. 
+Il Duca Gramont, privato di entrambi i suoi figli, diventa una figura tetra e derelitta. Affida il comando del Forte Nero e la difesa contro gli zachari a Parda, un incrollabile elfo, suo fedele servitore. Il clero e la nobiltà, fino a quel momento tenuti sotto controllo dal suo pugno di ferro, tornano alla ribalta. 
 
 Irretito dai suoi consiglieri, Alfred Gramont aumenta le tasse, concede maggior libertà alla Chiesa dell'Unico e perde potere politico in favore della nobiltà.
 
 Il solo a cercare di mantenere il controllo di Astalia in favore del suo signore è il Feldmaresciallo Thomas Roy, uomo tutto d'un pezzo che governa i cavalieri astaliani e mantiene l'ordine. È proprio Roy che manda una richiesta di soccorso al regno dello Stallone Nero. Il Feldmaresciallo è convinto che l'unico modo per salvare il suo signore è scoprire il mistero dietro la sparizione dei suoi due figli.
 
-Il re del Sacaan, Hiberon de Guarn II, acconsente alla richiesta in onore delle imprese del Duca contro i zachari. Viene organizzata così una milizia segreta di cavalieri, veterani della guerra contro il Polmone Infuocato.
+Il re del Sakaar, Hiberon de Guarn II, acconsente alla richiesta in onore delle imprese del Duca contro i zachari. Viene organizzata così una milizia segreta di cavalieri, veterani della guerra contro il Polmone Infuocato.
 
-I cavalieri dello Stallone Nero salpano da Punta Tolaris in direzione di Astalia, pronti a portare la missione che il Duca affiderà loro. 
+I cavalieri dello Stallone Nero salpano da Punta Tolaris in direzione di Astalia, pronti a portare la missione che il Duca affiderà loro.
