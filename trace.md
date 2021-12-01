@@ -1,0 +1,13 @@
+### Capitolo 1
+
+I giocatori approdano nella città di Kirov. Vengono accolti da Thomas Roy, Feldmaresciallo del Ducato di Astalia. Roy comunica loro che vorrebbe discutere della loro missione di fronte al Duca in persona, ma ci sono altre urgenze da risolvere. In meno di un'ora sono giunti due dispacci da Lantissa e Norant, in cui le guardie della città chiedono aiuto. Roy dice loro di recarsi a Lantissa, passando da Odestel. Fornirà loro cavalli veloci ed un ricambio ad Odestel. Una volta risolti i problemi, si farà sentire lui.
+
+I giocatori partono per Lantissa. ==Ogni sentiero rosso è un giorno a cavallo==. Nel tragitto verso Odestel c'è il primo incontro. Un carro rovesciato occupa il margine della strada, una pozza di sangue intorno. All'interno c'è un corpo febbricitante e cercando di estrarla si viene attaccati da un Genomorfo e da 3 controllati. Al termine del combattimento, se si riesce a salvare la ragazza e portarla viva ad Odestel, si viene ricompensati dalla sua famiglia (nobili).
+
+Nel rapido passaggio a Odestel, qualcuno avvisa i giocatori che da alcuni giorni arrivano notizie preoccupanti da Lantissa e addirittura qualche famiglia si è mossa verso Odestel.
+
+Durante il tragitto si trovano alcune famiglie di esuli, per lo più contadini, che abbandonano Lantissa. "La Banda delle Ossa prende la dannata città e le guardie osservano senza far nulla".
+
+Giunti a Lantissa, si scopre che c'è stata una esplosione che ha aperto una breccia nelle mura della città tre giorni prima. Le guardie, il cui numero è stato ridotto da recenti scontri con la Banda delle Ossa, criminali che vivono nella Grande Foresta, hanno deciso di erigere una palizzata interna alla città, e coloro che vivevano nei quartieri meridionali, disperati, cercano in tutti i modi di entrare, ma le guardie, per impedire sovraffollamento, mantengono una quarantena serrata. Un gruppo di uomini è stato inviato ad investigare l'esplosione, il cui punto di origine è nei condotti fognari della città al di sotto delle mura, ma non sono tornati. Si teme una imboscata e rappresaglia della Banda delle Ossa.
+
+Dopo aver esplorato l'inizio del condotto, si trova una guardia morente, che mette in guardia contro la creatura nel buio. "Non è la Banda delle Ossa. È un demone che risiede nell'ombra. Gli abbiamo versato del fuoco addosso, ma ce l'ha riversato addosso. A breve quella cosa, quella cosa..." e spira. Il mostro è stato creato dal druido. Ma i giocatori prima incontrano degli infiltrati della banda delle ossa. Poi il mostro.
