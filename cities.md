@@ -1,69 +1,55 @@
-
-
-
-
 ## Carmida
 
-armature
+<u>Forgia dei Cavalieri</u>: bottega dove è possibile acquistare qualsiasi scudo e armatura, anche magiche.
 
-scudi
+<u>Palio dei folli</u>: tornei su cui scommettere.
 
-palio dei folli (tornei su cui scommettere)
-
-gilda dei maestri (retrain di ogni feature del personaggio)
+<u>Gilda della Clessidra</u>: luogo dove è possibile utilizzare Lacrime di Luna per rivivere mentalmente la propria vita e cambiare il personaggio.
 
 
 
 ## Odestel
 
-armi melee
+<u>Mastro Duraval</u>: fabbro coboldo capace di forgiare qualsiasi arma di metallo (da mischia), anche magica, fornendo rune.
 
-collezionista (acquista ogni ninnolo possibile)
+<u>Collezionista</u>: gnomo che acquista ogni oggetto esistente.
 
-smelter (spacca oggetti per componenti rune)
+<u>Ydabor il Divoratore</u>: Cubo gelatinoso senziente che divora oggetti magici e produce rune in compenso.
+
+
 
 ## Kirov
 
-pozioni
+<u>Il gatto alato</u>: negozio di pozioni e articoli alchemici.
 
-oggetti alchemici
+<u>Gran Bazaar</u>: luogo in cui si trovano 5 oggetti magici casuali ogni settimana.
 
-gran bazaar (oggetti magici casuali ogni settimana)
+<u>Rizan l'Orefice</u>: bottega in cui Rizan forgia e vende le sue creazioni, anelli, collane, diademi magici e mondani.
+
+
 
 ## Vella
 
-archi e balestre
+<u>Garnet</u>: esperto artigiano in grado di creare qualsiasi arco o balestra, anche magici, fornendo rune.
 
-commissionier (quasi qualsiasi oggetto a settimana al doppio del prezzo)
+<u>Tussardis d'Oltremare</u>: mercante in grado di recuperare al 90% qualsiasi articolo, 1 volta alla settimana, per il doppio del prezzo.
 
-beaconer (vende, ogni tot e a prezzi incrementali, dei beacon da piazzare per teletrasportarsi in giro per la mappa).
+<u>Chiesa delle Stelle</u>: comunità religiosa che vende, a prezzi molto alti, dei Calici Cosmici, che permettono di teletrasportarsi in giro per la mappa, 1 volta al giorno.
+
+
 
 ## Lantissa
 
-rune
+<u>Forgia delle Rune</u>: luogo dove è possibile acquistare rune o crearle a partire da materiali semplici.
 
-rune forger (crea rune da materiali per rune di odestel)
+<u>Julia la Trasmogrifa</u>: abile incantatrice che trasforma un oggetto magico in un altro casuale, nella stessa fascia di prezzo, 1 volta a settimana.
 
-trasmogrifo (per un piccolo compenso rerolla 1 oggetto a settimana)
+<u>Trafiggi-Bestie</u>: fanatico della caccia di animali mitici. Per ogni memorabilia di animali inusuali, offre qualcosa in dono.
 
-beast hunter (per ogni pezzo di animale portatogli, offre un regalo)
 
-## Erdock
-
-trama
 
 ## Norant
 
-bacchette
+<u>Bottega Mistica di Fergenev il Mistico</u>: stralunata bottega gestita dall'elfo Fergenev, indiscusso creatore di bacchette, bastoni e scettri magici.
 
-pergamene
-
-bastoni
-
-grimori
-
-libreria (nuove conoscenze)
-
----
-
-magic mailbox
+<u>Biblioteca dell'Acquila Bifronte</u>: luogo di conoscenza e studio dove si possono apprendere nuove conoscenze, magie ed ottenere pergamene dietro compenso.

@@ -14,7 +14,7 @@ Dopo aver esplorato l'inizio del condotto, si trova una guardia morente, che met
 
 Una volta ucciso il mostro e scoperto il simbolo di sangue sul muro (l'Occhio Appeso) ricevono una ricompensa dal governatore di Lantissa e ricevono un messaggio da Roy, che li aspetta ad Odestel per andare a Carmida.
 
-Durante il viaggio verso Carmida i giocatori sentono da Roy che è stato lui a chiamare il Sakaar per aiutare il Duca. A Carmida incontrano il Duca nel giardino del fiore solitario e scoprono che devono cercare le spoglie del primo figlio e dove è scomparso il secondo.
+Durante il viaggio verso Carmida i giocatori sentono da Roy che è stato lui a chiamare il Sakaar per aiutare il Duca Nero. A Carmida incontrano il Duca nel giardino del fiore solitario e scoprono che devono cercare le spoglie del primo figlio e dove è scomparso il secondo.
 
 Il primo capitolo è quindi incentrato sulla cerca del primo figlio del duca. Prima di iniziare le indagini, il Duca però desidera che i cavalieri del Sakaar abbiamo il loro centro operativo, e affida loro Forte Utgar, sul fiume Durn. Affida loro anche una piccola imbarcazione.
 

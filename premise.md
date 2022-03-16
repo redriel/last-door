@@ -48,12 +48,12 @@ Rickert viene incarcerato e torturato, ma non confessa nè parla. Il principe Ul
 
 ## Giorni correnti
 
-Il Duca Gramont, privato di entrambi i suoi figli, diventa una figura tetra e derelitta. Affida il comando del Forte Nero e la difesa contro gli zachari a Parda, un incrollabile elfo, suo fedele servitore. Il clero e la nobiltà, fino a quel momento tenuti sotto controllo dal suo pugno di ferro, tornano alla ribalta. 
+Il Duca Nero Gramont, privato di entrambi i suoi figli, diventa una figura tetra e derelitta. Affida il comando del Forte Nero e la difesa contro gli zachari a Parda, un incrollabile elfo, suo fedele servitore. Il clero e la nobiltà, fino a quel momento tenuti sotto controllo dal suo pugno di ferro, tornano alla ribalta. 
 
 Irretito dai suoi consiglieri, Alfred Gramont aumenta le tasse, concede maggior libertà alla Chiesa dell'Unico e perde potere politico in favore della nobiltà.
 
-Il solo a cercare di mantenere il controllo di Astalia in favore del suo signore è il Feldmaresciallo Thomas Roy, uomo tutto d'un pezzo che governa i cavalieri astaliani e mantiene l'ordine. È proprio Roy che manda una richiesta di soccorso al regno dello Stallone Nero. Il Feldmaresciallo è convinto che l'unico modo per salvare il suo signore è scoprire il mistero dietro la sparizione dei suoi due figli.
+Il solo a cercare di mantenere il controllo di Astalia in favore del suo signore è il Feldmaresciallo Thomas Roy, uomo tutto d'un pezzo che governa i cavalieri astaliani e mantiene l'ordine. È proprio Roy che manda una richiesta di soccorso al regno dello Stallone Nero. Il Feldmaresciallo è convinto che l'unico modo per salvare il suo signore è scoprire il mistero dietro la sparizione dei suoi due figli. Inoltre, poichè i due figli sono tecnicamente scomparsi (e la loro morte non è stata confermata), per una vecchia legge astaliana contano come abdicanti e quindi il trono passerebbe al parente prossimo, il barone Utgar, uomo terribile e spietato.
 
-Il re del Sakaar, Hiberon de Guarn II, acconsente alla richiesta in onore delle imprese del Duca contro i zachari. Viene organizzata così una milizia segreta di cavalieri, veterani della guerra contro il Polmone Infuocato.
+Il re del Sakaar, Hiberon de Guarn II, acconsente alla richiesta in onore delle imprese del Duca Nero contro i zachari. Viene organizzata così una milizia segreta di cavalieri, veterani della guerra contro il Polmone Infuocato.
 
-I cavalieri dello Stallone Nero salpano da Punta Tolaris in direzione di Astalia, pronti a portare la missione che il Duca affiderà loro.
+I cavalieri dello Stallone salpano da Punta Tolaris in direzione di Astalia, pronti a portare la missione che il Duca Nero affiderà loro.

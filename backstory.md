@@ -18,4 +18,4 @@ L'Unico scopre che una particolare dinastia su Esalon, i *Gramont*, ha un genoma
 
 ## L'attesa dei genomorfi
 
-Vrexen e i genomorfi, ormai in stallo da secoli e con il tempo a disposizione che sta per scadere, si sono appostati su un pianeta relativamente vicino ad Esalon, la **Terra**, dalla quale monitorano lo status della barriera. Oghun, la cui la malattia lo sta conducendo rapidamente alla morte, viene curato dalle esigue quantità di etere trovate sul pianeta. Vrexen stermina completamente la popolazione terrestre ed invia continuamente spie su Esalon, ma senza fortuna: ogni accesso al pianeta è negato.
+Vrexen e i genomorfi, ormai in stallo da secoli e con il tempo a disposizione che sta per scadere, si sono appostati su un pianeta relativamente vicino ad Esalon, **Landus**, dal quale monitorano lo status della barriera. Oghun, la cui la malattia lo sta conducendo rapidamente alla morte, viene curato dalle esigue quantità di etere trovate sul pianeta. Vrexen stermina completamente la popolazione terrestre ed invia continuamente spie su Esalon, ma senza fortuna: ogni accesso al pianeta è negato.

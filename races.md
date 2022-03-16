@@ -1,6 +1,6 @@
 ## Razze
 
-Il mondo di Edalon è abitato da molti popoli. Tutte le genti che abitano Edalon appartengono o discendono dalle Stirpi Antiche: draghi, giganti, elfi e gnomi.
+Il mondo di Esalon è abitato da molti popoli. Tutte le genti che abitano Edalon appartengono o discendono dalle Stirpi Antiche: draghi, giganti, elfi e gnomi.
 
 Dopo i misteriosi eventi della _Dispersione_, nuove razze hanno iniziato a popolare Edalon, compresi mostri e bestie che prima appartenevano unicamente alla leggenda.
 
@@ -8,11 +8,11 @@ Di seguito sono elencate le principali stirpi di Edalon.
 
 ### Uomini
 
-Gli uomini sono elfi tornati dalla Dispersione. Hanno perso la loro longevità in favore di una maggiore fertilità e adattabilità. Ingegnosi e poliedrici, sono la stirpe più diffusa. Gli uomini possono essere sovrani, cavalieri, schiavi, tagliagole e tutti gli altri ruoli che Edalon può offrire.
+Gli uomini sono elfi tornati dalla Dispersione. Hanno perso la loro longevità in favore di una maggiore fertilità e adattabilità. Ingegnosi e poliedrici, sono la stirpe più diffusa. Gli uomini possono essere sovrani, cavalieri, schiavi, tagliagole e tutti gli altri ruoli che Esalon può offrire.
 
 ### Elfi
 
-Gli elfi sono una Stirpe Antica. Sono maestri degli Arcani e nutrono grande fede nell'Unico. Come gli gnomi, sono molto longevi ma poco fertili. Vivono in tutti i regni di Edalon e solitamente sono membri del clero, nobili o cavalieri.
+Gli elfi sono una Stirpe Antica. Sono maestri degli Arcani e nutrono grande fede nell'Unico. Come gli gnomi, sono molto longevi ma poco fertili. Vivono in tutti i regni di Esalon e solitamente sono membri del clero, nobili o cavalieri.
 
 ### Goblin
 
