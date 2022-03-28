@@ -34,7 +34,7 @@
 
 <u>Tussardis d'Oltremare</u>: mercante in grado di recuperare al 90% qualsiasi articolo, 1 volta alla settimana, per il doppio del prezzo.
 
-<u>Chiesa delle Stelle</u>: comunità religiosa che vende, a prezzi molto alti, dei Calici Cosmici, che permettono di teletrasportarsi in giro per la mappa, 1 volta al giorno.
+<u>Chiesa delle Stelle</u>: comunità religiosa che vende, a prezzi molto alti, dei Calici Alati, che permettono di teletrasportarsi in giro per la mappa, 1 volta al giorno.
 
 
 
@@ -46,6 +46,8 @@
 
 <u>Trafiggi-Bestie</u>: fanatico della caccia di animali mitici. Per ogni memorabilia di animali inusuali, offre qualcosa in dono.
 
+<u>Cattedrale di Sant'Ezeran</u>: luogo dove pregare, curare malattie e acquistare pergamene e oggetti benedetti.
+
 
 
 ## Norant
@@ -53,3 +55,5 @@
 <u>Bottega Mistica di Fergenev il Mistico</u>: stralunata bottega gestita dall'elfo Fergenev, indiscusso creatore di bacchette, bastoni e scettri magici.
 
 <u>Biblioteca dell'Acquila Bifronte</u>: luogo di conoscenza e studio dove si possono apprendere nuove conoscenze, magie ed ottenere pergamene dietro compenso.
+
+<u>Taverna del Dio Fortunato</u>: taverna celebre per le cosche clandestine a cui anche i nobili prendono parte.

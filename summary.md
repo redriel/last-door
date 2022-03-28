@@ -5,7 +5,7 @@
 5. Conquistare Forte Utgar difeso dai due Gargoyle Balestrieri e uccidere il Vecchio Barone
 6. Ottenere Forte Utgar e il Sigillo Magico (magic mailbox).
 7. Cercare il primo figlio 
-8. Trovare la Fronda d'Argento nelle Tombe del Circolo
+8. Trovare la Fronda d'Argento nella Necropoli
 9. Entrare nella parte più interna dei Boschi di Rinn, custoditi dai centauri-druidi e uccidere il Cinghiale Zanna Nera cavalcato dall'armatura maledetta e due treant, recuperando le spoglie del primo figlio del duca
 10. Visitare la Mano di Kemoran, che richiede l'occhio destro e sinistro dei suoi fratelli, I Gemelli della Disgrazia
 11. Iniziare la quest per capire dove si trovano i due gemelli
